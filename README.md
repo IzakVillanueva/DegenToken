@@ -33,12 +33,12 @@ As an example, this is the Snowtrace Testnet Transaction history as proof for th
 
 ## Functions
 
-*```mintTokens``` mints tokens to a specified address. Only the owner is allowed to access this function.
-*```checkBalance``` returns the balance of the current user.
-*```browseMerch``` lists all the available items to redeem in the merch store.
-*```redeemTokens``` lets the user redeem the merch of the given user input(uint).
-*```transfer``` allows the user to transfer tokens to a specified address.
-*```burnTokens``` burns the specified number of tokens from the users current balance.
+* ```mintTokens``` mints tokens to a specified address. Only the owner is allowed to access this function.
+* ```checkBalance``` returns the balance of the current user.
+* ```browseMerch``` lists all the available items to redeem in the merch store.
+* ```redeemTokens``` lets the user redeem the merch of the given user input(uint).
+* ```transfer``` allows the user to transfer tokens to a specified address.
+* ```burnTokens``` burns the specified number of tokens from the users current balance.
 
 ## Authors
 
